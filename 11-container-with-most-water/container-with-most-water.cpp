@@ -48,3 +48,30 @@ public:
         return max_area;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution {
+// public:
+//     int maxArea(vector<int>& height) {
+//         int len=height.size();
+//         string data="";
+//         for(int i=0;i<len;i++){
+//             for(int j=0;i<=len;j++){
+//                 int ans=(j-i)*height[i];
+//                 cin>>data;
+//             }
+//         }
+//         return {min(data)};
+//     }
+// };
